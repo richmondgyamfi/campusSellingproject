@@ -1,0 +1,10 @@
+#sign {
+	text-align:center; 
+	height: 500px;
+	width: 50%; 
+	text-align: center;
+	background-size: cover; 
+	box-shadow: 2px 2px 5px 5px #e1e1e1; 
+	margin:auto; 
+	margin-top: 50px;
+}
